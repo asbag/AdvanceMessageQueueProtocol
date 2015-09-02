@@ -1,0 +1,7 @@
+<?php
+/**
+ * @author David Mezquíriz Osés
+ */
+
+//unlike the sender which publishes a single message, 
+//we'll keep it running to listen for messages and print them out.

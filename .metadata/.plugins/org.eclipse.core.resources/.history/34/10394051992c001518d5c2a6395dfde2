@@ -1,0 +1,16 @@
+<?php
+
+if (!empty($_GET['sent'])) {
+?>
+	<div>
+		Your message was sent!
+	</div>
+<?php 
+}
+?>
+<form action="mailer.php" method="POST">
+	<div>
+		<label for="from">From:</label>
+		
+	</div>
+</form>

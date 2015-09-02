@@ -1,0 +1,8 @@
+<?php
+
+if (!empty($_GET['sent'])) {
+?>
+	<div>
+		Your message was sent!
+	</div>
+	

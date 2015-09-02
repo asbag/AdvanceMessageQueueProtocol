@@ -1,0 +1,11 @@
+<?php
+/**
+ * @author David Mezquíriz
+ * @copyright 2015
+ */
+ 
+spl_autoload_register('ClassLoad');
+
+function ClassLoad () {
+	
+}
